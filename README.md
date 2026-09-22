@@ -1,6 +1,6 @@
 # OptimizingShapePacking 
 
-My IPYNBs to find the shortest known radius (r) / side length (s) of container shape fitting n unit shapes inside of itself.
+My IPYNBs to find the shortest known radius (r) / side length (s) of a container shape fitting n unit shapes inside of itself.
 
 Current findings:
 
