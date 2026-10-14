@@ -8,6 +8,6 @@ My IPYNBs to find the shortest known radius (r) / side length (s) of a container
 /　　　 　 | \
 /　 ヽ　　 ﾉ \
 │　　|　|　| \
-　／￣|　　 |　|　| \
-　| (￣ヽ＿_ヽ_)__) \
-　＼二つ \
+／￣|　 |　|　| \
+| (￣ヽ＿_ヽ_)__) \
+＼二つ \
